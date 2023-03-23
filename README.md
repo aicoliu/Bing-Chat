@@ -1,3 +1,6 @@
+## docker
+  https://hub.docker.com/r/huwei901108/bing_chat
+  
 ## 提示
 如出现报错，请先将EdgeGPT库更新到最新版本(0.0.56.2)，还不能解决再提交issue.
 ## 介绍
